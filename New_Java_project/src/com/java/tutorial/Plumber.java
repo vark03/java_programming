@@ -19,4 +19,10 @@ public class Plumber {
 		System.out.println("Money taken.." + "money");
 	}
 	
+	public int fixTap1(int money) {
+		System.out.println("Returning change");
+		return 5;
+		
+	}
+	
 }
