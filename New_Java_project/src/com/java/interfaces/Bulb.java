@@ -4,7 +4,8 @@ package com.java.interfaces;
 
 public abstract class Bulb implements LightGivingEquipment{
 	
-	public void throwABC() {
+	public void throwABC()
+	{
 		System.out.println("I am throwing light, i am a bulb");
 	}
 	
